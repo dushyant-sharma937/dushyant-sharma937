@@ -14,9 +14,9 @@
  🌱 I’m currently learning **Android Development**
 
  🤝 I’m looking for projects to team up!
-
+ 
  💬 Ask me about **Development and Programming**
-
+ 
  📄 Know about my experiences [@Resume](https://drive.google.com/file/d/1CQgTXKpL0fkoyArBKckEvzdfSdne2FoA/view?usp=sharing)
  
 </div>
