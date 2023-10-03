@@ -17,7 +17,7 @@
  
  💬 Ask me about **Development and Programming**
  
- 📄 Know about my experiences [@Resume](https://drive.google.com/file/d/1CQgTXKpL0fkoyArBKckEvzdfSdne2FoA/view?usp=sharing)
+ 📄 Know about my experiences [@Resume](https://drive.google.com/file/d/1WFtlJkCXccm_Wm2eH6TzuzW2XyiSqd7C/view?usp=sharing)
  
 </div>
 <img align="right" src="assets/tech.gif" alt="pro_coder_gif" height="200">
