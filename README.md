@@ -11,13 +11,13 @@
 <summary style="padding:20px;display:flex;flex-direction:row;justify-content:space-between;">
 <div align="left">
 
- 🌱 I’m currently learning **Android Development**
+ 🌱 I’m currently learning **App Development**
 
  🤝 I’m looking for projects to team up!
  
  💬 Ask me about **Development and Programming**
  
- 📄 Know about my experiences [@Resume](https://drive.google.com/file/d/1WFtlJkCXccm_Wm2eH6TzuzW2XyiSqd7C/view?usp=sharing)
+ 📄 Know about my experiences [@Resume](https://drive.google.com/file/d/1QTzIfJzanh9ZrGkiPjKp__dt4K8dpq2n/view?usp=drive_link)
  
 </div>
 <img align="right" src="assets/tech.gif" alt="pro_coder_gif" height="200">
