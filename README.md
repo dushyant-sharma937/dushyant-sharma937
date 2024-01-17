@@ -17,7 +17,7 @@
  
  💬 Ask me about **Development and Programming**
  
- 📄 Know about my experiences [@Resume](https://drive.google.com/file/d/1cmwHn7D9ICHZrdPr3sHcBW1ASM94TZAN/view?usp=sharing)
+ 📄 Know about my experiences [@Resume](https://drive.google.com/file/d/16z2Kzv-Bk5qv3Wpae2WHYnuAppZ9jprW/view?usp=sharing)
  
 </div>
 <img align="right" src="assets/tech.gif" alt="pro_coder_gif" height="200">
@@ -36,7 +36,7 @@
 <a href="https://www.linkedin.com/in/itsdushyantsharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsdushyantsharma" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/dushyant_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dushyant_sharma" height="30" width="40" /></a>
 <a href="https://leetcode.com/dushyant_sharma937/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dushyant_sharma937" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dushyant_3112" target="blank"><img align="center" src="https://camo.githubusercontent.com/0eb2d200ac2bf7fab273644347ad2a30c658d3d02493bc6d95c3111ce8e88caa/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3438302f636f6465636865662e706e67" alt="dushyant_3112" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/dushyant_3112" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/768px-Codechef%28new%29_logo.svg.png?20200703044354" alt="dushyant_3112" height="30" width="40" /></a>
 </p>
 </div>
 
